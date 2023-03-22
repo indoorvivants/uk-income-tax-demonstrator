@@ -13,6 +13,9 @@ Interactive breakdown of UK income taxes.
 
 _Scala 3, Scala.js, Laminar, Vite_
 
+
+![2023-03-22 15 00 25](https://user-images.githubusercontent.com/1052965/226946421-325a93ba-43ab-4e3e-bb6b-3eaabe72d1d5.gif)
+
 ## Pre-requisites
 
 - NPM
